@@ -1,6 +1,6 @@
 # AWS-PROJECTS
 
-Big win alert! 🎉 I just mastered AWS in ONE shot to this incredible video: [https://youtu.be/N4sJj-SxX00?si=V7TRSzxSf4bnj96H] ☁️ From zero to AWS hero, I dove deep into the cloud and came out on top! Here’s what I conquered:
+☁️ From zero to AWS hero, I dove deep into the cloud and came out on top! Here’s what I conquered:
 
 🌐 Virtualization & Cloud Computing 101
 
